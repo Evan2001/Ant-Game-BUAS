@@ -1,0 +1,44 @@
+﻿  BattleSystem.cpp
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(34,2): error C2065: 'mantis_dmg': undeclared identifier
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(39,5): error C2065: 'bite_dmg': undeclared identifier
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(40,17): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(48,31): error C2065: 'playerhp': undeclared identifier
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(49,29): error C2065: 'computerhp': undeclared identifier
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(50,26): error C2065: 'bite_dmg': undeclared identifier
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(58,26): error C2065: 'bite_dmg': undeclared identifier
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(70,4): error C2065: 'computerhp': undeclared identifier
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(70,26): error C2065: 'computerhp': undeclared identifier
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(75,8): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(77,11): error C2065: 'Computer_Move': undeclared identifier
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(78,3): error C2050: switch expression not integral
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(82,4): error C2065: 'playerhp': undeclared identifier
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(82,24): error C2065: 'playerhp': undeclared identifier
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(89,9): error C2065: 'playerhp': undeclared identifier
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(89,26): error C2065: 'computerhp': undeclared identifier
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(91,6): error C2065: 'playerhp': undeclared identifier
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(96,6): error C2065: 'computerhp': undeclared identifier
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(113,9): error C2562: 'AntGame::Battle::playerAction': 'void' function returning a value
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(22): message : see declaration of 'AntGame::Battle::playerAction'
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(120,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(120,16): error C2146: syntax error: missing ';' before identifier 'Mantis'
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(120,23): error C2059: syntax error: 'new'
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(121,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(121,9): error C2086: 'int AntGame::Sprite': redefinition
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(120): message : see declaration of 'AntGame::Sprite'
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(121,16): error C2146: syntax error: missing ';' before identifier 'Ant'
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(121,56): error C2027: use of undefined type 'AntGame::Surface'
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.h(13): message : see declaration of 'AntGame::Surface'
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(121,59): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(130,9): error C2027: use of undefined type 'AntGame::Surface'
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.h(13): message : see declaration of 'AntGame::Surface'
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(132,9): error C2027: use of undefined type 'AntGame::Surface'
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.h(13): message : see declaration of 'AntGame::Surface'
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(140,9): error C2059: syntax error: '.'
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\BattleSystem.cpp(141,9): error C2059: syntax error: '.'
+  game.cpp
+  template.cpp
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\template.cpp(178,5): error C2143: syntax error: missing ';' before '*'
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\template.cpp(178,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\template.cpp(178,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Evan\OneDrive\00. School\00. BUAS - assignments\BUAS -Programming\Ant-Game\template.cpp(330,13): error C2061: syntax error: identifier 'Game'
+  Generating Code...
